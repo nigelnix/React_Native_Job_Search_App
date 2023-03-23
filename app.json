@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Reactive_Native_Jobs",
+    "slug": "Reactive_Native_Jobs"
+  }
+}
